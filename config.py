@@ -5,5 +5,5 @@ env = Env()
 env.read_env()
 
 # .env fayl ichidan quyidagilarni o'qiymiz
-BOT_TOKEN = env.str("BOT_TOKEN")  # Bot Token
-ADMINS = env.list("ADMIN")  # adminlar ro'yxati
+BOT_TOKEN = env.str("8408766977:AAFU7tgGxkb09RC82MWlkCDmaxSYtWxr_x4")  # Bot Token
+ADMINS = env.list("7759711404")  # adminlar ro'yxati
